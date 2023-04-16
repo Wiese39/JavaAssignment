@@ -3,7 +3,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Gokje_1007024 {
+public class Gokje {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
