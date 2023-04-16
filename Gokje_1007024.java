@@ -1,3 +1,5 @@
+//Author : Jeremy Wiese (1007024)
+
 import java.util.Random;
 import java.util.Scanner;
 
